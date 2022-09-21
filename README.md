@@ -15,7 +15,7 @@ The Weather Dashboard is an application to find a weather condition of a given c
 
 ## Github repo
 
-https://github.com/LunaRossie/Weather-Dashboard--
+https://github.com/LunaRossie/Weather---Dashboard---
 
 
 ## License
@@ -25,7 +25,8 @@ This project is licensed under MIT.
 
 ## Deployed Site
 
-https://lunarossie.github.io/Weather-Dashboard--/
+https://lunarossie.github.io/Weather---Dashboard---/
+
 
 ## Questions
 
